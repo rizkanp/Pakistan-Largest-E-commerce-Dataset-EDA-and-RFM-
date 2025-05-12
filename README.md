@@ -25,4 +25,4 @@ Sebagai seorang stakeholders pasti memerlukan **strategi dan peningkatan pelayan
 1. Segmentasi Customer untuk memudahkan perusahaan memberikan pelayanan yang tepat sesuai dengan karakteristik masing-masing pelanggan.
 
 
-Link Tableau: https://public.tableau.com/views/CapstoneProjectModul2-RizkaNurPratama-Purwadhika/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Link Tableau: https://public.tableau.com/views/CustomerProfilingRFMSegmentationforE-CommerceInsights/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
